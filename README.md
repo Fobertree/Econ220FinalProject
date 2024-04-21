@@ -9,3 +9,10 @@ Run the following command.
 ```
 git clone https://github.com/Fobertree/Econ220FinalProject.git
 ```
+
+## Push changes
+```
+git add .
+git commit -m "this is a commit"
+git push
+```
